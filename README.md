@@ -7,7 +7,7 @@
 ---
 ## ✨ What is NutriCraft?
 NutriCraft is an innovative, personalized food planning application designed to empower users in achieving their nutritional goals through smart, data-driven recommendations. By seamlessly integrating user preferences, dietary restrictions, and health goals, NutriCraft delivers tailored meal suggestions that are both nutritious and delicious.  
-[Check out NutriCraft](https://nutricraft-personalized-food-planner.streamlit.app)
+[Check out NutriCraft](https://nutricraft-nutrition-powered-food-guide.streamlit.app)
 
 ## 🔥 Features
 * 🥗 Tailored Recommendations: Smart suggestions to match your nutritional goals.
